@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KMusicPlayer", "KMusicPlayer\KMusicPlayer.vcxproj", "{F2F6F8F1-17F7-4530-A484-037A936046E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F6F8F1-17F7-4530-A484-037A936046E1}.Debug|x64.ActiveCfg = Debug|x64
+		{F2F6F8F1-17F7-4530-A484-037A936046E1}.Debug|x64.Build.0 = Debug|x64
+		{F2F6F8F1-17F7-4530-A484-037A936046E1}.Release|x64.ActiveCfg = Release|x64
+		{F2F6F8F1-17F7-4530-A484-037A936046E1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE1DE08B-8EF4-4239-B5DD-35A506A09B3D}
+	EndGlobalSection
+EndGlobal
