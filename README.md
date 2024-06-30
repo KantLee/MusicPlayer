@@ -31,11 +31,8 @@
 ## 演示截图
 
 ![image-20240630163228130](./README.assets/image-20240630163228130.png)
-<<<<<<< HEAD
-=======
 
 ![image-20240630164313253](./README.assets/image-20240630164313253.png)
->>>>>>> ebb48cc (更新readme)
 
 ![image-20240630163336064](./README.assets/image-20240630163336064.png)
 
