@@ -30,7 +30,7 @@
 
 ## 演示截图
 
-![image-20240630163228130](./readme.assets/image-20240630163228130.png)
+![image-20240630163228130](./README.assets/image-20240630163228130.png)
 
 ![image-20240630163336064](./README.assets/image-20240630163336064.png)
 
